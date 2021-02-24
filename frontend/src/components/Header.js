@@ -23,7 +23,7 @@ const Header = () => {
           <LinkContainer to='/'>
             <Navbar.Brand>
               {/* <Image src="/Rush-Gear.png" fluid height='100' width='100' /> */}
-              RushGear
+              SpecTech
             </Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
